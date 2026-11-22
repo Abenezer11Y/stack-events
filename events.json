@@ -1,3 +1,32 @@
 {
-  "events": []
+  "events": [
+    {
+      "id": "nothing-for-now-2026",
+      "name": "Nothing for now :)",
+      "banner": "Banner",
+      "desc": "Description",
+      "start": "2026-11-22T19:30:00.000Z",
+      "end": "2026-11-22T19:37:00.000Z",
+      "theme": "sparkle",
+      "featured": [
+        "toy"
+      ],
+      "featuredSale": 10,
+      "gift": {
+        "coins": 500
+      },
+      "mode": {
+        "id": "asteroids",
+        "rate": 0.35
+      },
+      "rewards": [
+        {
+          "skin": "lava",
+          "minScore": 100,
+          "guarantee": 100,
+          "chance": 1
+        }
+      ]
+    }
+  ]
 }
